@@ -1,0 +1,8 @@
+name = "miniflare-example-typescript"
+main = "src/index.ts"
+compatibility_date = "2022-06-17"
+
+[[migrations]]
+tag = "v1" # Should be unique for each entry
+new_classes = ["Room"] # Array of new classes
+ 
